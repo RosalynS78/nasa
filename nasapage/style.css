@@ -2,12 +2,11 @@ body {
     margin: auto;
     width: 850px;
 }
-
 main {
    height: 450px;
    margin: auto;
    background-image: url(space.jpg);
-   }
+}
 header {
    color:white;
    grid-column: 2/3;
@@ -17,10 +16,10 @@ header {
    -webkit-text-stroke-color: black;
    text-align: center;
    padding-top: 155px;
-  }
-  p.top {
+}
+p.top {
      font-size: 25px;
-   }
+}
 section{
    display: flex;
    height: 324px;
@@ -29,9 +28,5 @@ article {
    width: 270px;
    height: 324px;
    padding: 20px;
-   
-
-   
-   
    background-color: rgb(230,230,230);
 }
